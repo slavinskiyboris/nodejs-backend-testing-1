@@ -1,5 +1,4 @@
 {
-  "testResultsProcessor": "../node_modules/jest-html-reporter",
   "moduleFileExtensions": [
     "js",
     "json",
